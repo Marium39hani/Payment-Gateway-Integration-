@@ -1,7 +1,7 @@
 # Developer - Umm e hani
 
 # Task
-> Payment Gateway Integration - https://Marium39hani.github.io/payment_gateway_integration/
+> Payment Gateway Integration -https://github.com/Marium39hani/Payment-Gateway-Integration-
 
 ## Table of contents
 * Homepage
